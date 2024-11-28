@@ -1,10 +1,10 @@
 ![GitHubBanner](https://github.com/user-attachments/assets/825eb0e7-6d9f-46c3-bb96-fcbb3995edf2)
 # Hi, I'm Austin
-📖 Studying Programming at (WSCC) Walter's State Community College.<br/>
-🤔 I'm an Software Developer with a passion for coding and solving problems. Currently focused on mastering C# and full-stack development.<br/>
-🧰 When I am not coding I like to enhance desktops and laptops both cosmetically and functionally.<br>
-🤓 As a child, I took things apart to see how they worked, driven by curiosity for the mechanics of the world. When I discovered computers, it felt like uncovering the next step in human evolution—a bridge between what we are and what we can become. What     truly captivated me was their role in exploring the cosmos, where machines and imagination together unlock the secrets of the universe.<br>
-👾 One day it is my hope to work for SpaceX.<br>
+📖 Studying Programming at Walter's State Community College (WSCC).<br>
+🤔 Aspiring Software Developer passionate about coding and problem-solving. Currently focused on mastering C# and full-stack development.<br>
+🧰 Beyond coding, I enjoy enhancing desktops and laptops, combining cosmetic customization with functional upgrades.<br>
+🤓 As a child, I was driven by curiosity, always taking things apart to understand their mechanics. Discovering computers felt like unlocking the next step in human evolution—a bridge between what we are and what we can become. I’m especially fascinated by how computers drive space exploration and uncover the universe's mysteries.<br>
+👾 Dream Goal: To one day work for SpaceX, contributing to humanity's journey among the stars.<br>
 
 # 💻 Tech Knowledge
 
