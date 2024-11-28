@@ -1,10 +1,20 @@
 ![GitHubBanner](https://github.com/user-attachments/assets/825eb0e7-6d9f-46c3-bb96-fcbb3995edf2)
+
+<div align="center">
+
 # Hi, I'm Austin
+
+</div>
+
 📖 Studying Programming at Walter's State Community College (WSCC).<br>
 🤔 Aspiring Software Developer passionate about coding and problem-solving. Currently focused on mastering C# and full-stack development.<br>
 🧰 Beyond coding, I enjoy enhancing desktops and laptops, combining cosmetic customization with functional upgrades.<br>
 🤓 As a child, I was driven by curiosity, always taking things apart to understand their mechanics. Discovering computers felt like unlocking the next step in human evolution—a bridge between what we are and what we can become. I’m especially fascinated by how computers drive space exploration and uncover the universe's mysteries.<br>
 👾 Dream Goal: To one day work for SpaceX, contributing to humanity's journey among the stars.<br>
+
+
+
+<div align="center">
 
 # 💻 Tech Knowledge
 
@@ -18,10 +28,13 @@
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|||
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)|||
 
+</div>
+
+<div align="center">
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aphillips17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Aphillips17&theme=dark&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Aphillips17&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=Aphillips17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aphillips17&theme=dark&hide_border=false)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
